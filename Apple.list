@@ -11,5 +11,5 @@
 .me.com
 .apple-livephotos.com
 .apple.
-IP-CIDR,17.0.0.0/8,Apple,no-resolve
-IP-ASN,714,Apple,no-resolve
+IP-CIDR,17.0.0.0/8,no-resolve
+IP-ASN,714,no-resolve
