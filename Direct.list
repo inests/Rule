@@ -1,8 +1,8 @@
-.noip.com
-.netgear.com
-.nvidia.com
-.hp.com
-.hpgamestream.com
-.logitech.io
-.logitech.com
-.faro-cloud.com
+DOMAIN-SUFFIX,noip.com,DIRECT
+DOMAIN-SUFFIX,netgear.com,DIRECT
+DOMAIN-SUFFIX,nvidia.com,DIRECT
+DOMAIN-SUFFIX,hp.com,DIRECT
+DOMAIN-SUFFIX,hpgamestream.com,DIRECT
+DOMAIN-SUFFIX,logitech.io,DIRECT
+DOMAIN-SUFFIX,logitech.com,DIRECT
+DOMAIN-SUFFIX,faro-cloud.com,DIRECT
