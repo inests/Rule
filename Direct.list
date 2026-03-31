@@ -1,8 +1,9 @@
-DOMAIN-SUFFIX,noip.com,DIRECT
-DOMAIN-SUFFIX,netgear.com,DIRECT
-DOMAIN-SUFFIX,nvidia.com,DIRECT
+
+DOMAIN-SUFFIX,noip.com
+DOMAIN-SUFFIX,netgear.com
+DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,hp.com,DIRECT
-DOMAIN-SUFFIX,hpgamestream.com,DIRECT
-DOMAIN-SUFFIX,logitech.io,DIRECT
-DOMAIN-SUFFIX,logitech.com,DIRECT
-DOMAIN-SUFFIX,faro-cloud.com,DIRECT
+DOMAIN-SUFFIX,hpgamestream.com
+DOMAIN-SUFFIX,logitech.io
+DOMAIN-SUFFIX,logitech.com
+DOMAIN-SUFFIX,faro-cloud.com
