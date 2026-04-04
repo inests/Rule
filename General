@@ -2,6 +2,7 @@ DOMAIN-WILDCARD,*.binance.*
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,anthropic.com
