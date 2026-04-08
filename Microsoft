@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,exp-tas.com
+DOMAIN-SUFFIX,sfx.ms
 DOMAIN-WILDCARD,*.microsoft.*
 IP-ASN,8075,no-resolve
