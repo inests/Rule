@@ -1,4 +1,4 @@
-DEST-PORT,123,DIRECT
+DEST-PORT,123
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logitech.com
 DOMAIN-SUFFIX,logitechg.com
