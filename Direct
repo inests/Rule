@@ -1,4 +1,3 @@
-DEST-PORT,123
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logitech.com
 DOMAIN-SUFFIX,logitechg.com
@@ -19,6 +18,8 @@ DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,insight.synology.com
 DOMAIN-SUFFIX,sns.synology.com
 DOMAIN-SUFFIX,c2.synology.com
+DOMAIN-SUFFIX,cn
+DEST-PORT,123
 IP-ASN,37963,no-resolve
 IP-ASN,45102,no-resolve
 IP-ASN,135377,no-resolve
