@@ -1,4 +1,3 @@
-DEST-PORT,123,DIRECT
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logitech.com
 DOMAIN-SUFFIX,logitechg.com
@@ -43,3 +42,7 @@ IP-ASN,45061,no-resolve
 IP-ASN,136167,no-resolve
 IP-ASN,58839,no-resolve
 IP-ASN,136188,no-resolve
+IP-ASN,45051,no-resolve
+IP-ASN,131451,no-resolve
+IP-ASN,132535,no-resolve
+IP-ASN,132532,no-resolve
