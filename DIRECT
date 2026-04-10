@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,faro-cloud.com
 DOMAIN-SUFFIX,cn
-DEST-PORT,123
 IP-ASN,37963,no-resolve
 IP-ASN,45102,no-resolve
 IP-ASN,135377,no-resolve
@@ -36,3 +35,4 @@ IP-ASN,45061,no-resolve
 IP-ASN,136167,no-resolve
 IP-ASN,58839,no-resolve
 IP-ASN,136188,no-resolve
+DEST-PORT,123
