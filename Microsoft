@@ -18,5 +18,5 @@ DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,sfx.ms
-DOMAIN-WILDCARD,*.microsoft.*
+DOMAIN-KEYWORD,.microsoft.
 IP-ASN,8075,no-resolve
