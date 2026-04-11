@@ -7,6 +7,6 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,apple-dns.net
-DOMAIN-WILDCARD,*.apple.*
+DOMAIN-KEYWORD,.apple.
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-ASN,714,no-resolve
