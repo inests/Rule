@@ -1,10 +1,14 @@
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
@@ -13,3 +17,5 @@ DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-KEYWORD,.google.
 IP-ASN,15169,no-resolve
+IP-ASN,16591,no-resolve
+IP-ASN,396982,no-resolve
