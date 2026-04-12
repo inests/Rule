@@ -1,8 +1,10 @@
 DOMAIN-SUFFIX,wss.zone
 DOMAIN-SUFFIX,wenshushu.cn
-DOMAIN-KEYWORD,oray
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,sunlogin.net
 DOMAIN-KEYWORD,baidu
-IP-ASN,45051,no-resolve
-IP-ASN,131451,no-resolve
-IP-ASN,132535,no-resolve
-IP-ASN,132532,no-resolve
+IP-ASN,58563,no-resolve
+IP-ASN,38365,no-resolve
+IP-ASN,136192,no-resolve
+IP-ASN,135365,no-resolve
