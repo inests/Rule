@@ -11,6 +11,15 @@ DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,faro-cloud.com
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
+IP-ASN,16625,no-resolve
+IP-ASN,20940,no-resolve
+IP-ASN,21125,no-resolve
 IP-ASN,4134,no-resolve
 IP-ASN,4809,no-resolve
 IP-ASN,4837,no-resolve
