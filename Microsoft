@@ -3,6 +3,12 @@ DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,live.com
@@ -13,10 +19,8 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,msftauth.net
-DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,exp-tas.com
-DOMAIN-SUFFIX,sfx.ms
 DOMAIN-KEYWORD,.microsoft.
 IP-ASN,8075,no-resolve
+IP-ASN,12076,no-resolve
+IP-ASN,8068,no-resolve
