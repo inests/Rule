@@ -16,11 +16,12 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,wetransfer.com
-DOMAIN-SUFFIX,wetransfer.net
-DOMAIN-SUFFIX,transfernow.net
+DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,transfernow.net
+DOMAIN-SUFFIX,wetransfer.com
+DOMAIN-SUFFIX,wetransfer.net
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,drive.google.com
