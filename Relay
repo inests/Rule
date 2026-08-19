@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,ts.net
+IP-CIDR,10.0.1.0/24,no-resolve
+IP-CIDR,100.110.72.33/32,no-resolve
