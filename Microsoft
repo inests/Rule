@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,aspnetcdn.com
