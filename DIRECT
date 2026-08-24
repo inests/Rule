@@ -49,10 +49,8 @@ DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,faro-cloud.com
 DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,netgear.com
-DOMAIN-SUFFIX,tailscale.com
-PROCESS-NAME,tailscale
+DOMAIN-SUFFIX,faro-cloud.com
 DOMAIN-SUFFIX,cn
 DEST-PORT,123
