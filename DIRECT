@@ -53,6 +53,6 @@ DOMAIN-SUFFIX,faro-cloud.com
 DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,tailscale.com
-PROCESS-NAME,tailscale,DIRECT
+PROCESS-NAME,tailscale
 DOMAIN-SUFFIX,cn
 DEST-PORT,123
