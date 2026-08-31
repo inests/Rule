@@ -15,3 +15,5 @@ IP-CIDR,17.0.0.0/8,no-resolve
 IP-ASN,714,no-resolve
 IP-ASN,6185,no-resolve
 IP-ASN,20427,no-resolve
+PROCESS-NAME,trustd
+PROCESS-NAME,netbiosd
