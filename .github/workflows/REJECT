@@ -1,0 +1,25 @@
+name: Pull anti-AD to REJECT
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest anti-AD and overwrite REJECT
+        run: |
+          curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt -o REJECT
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add REJECT
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Pull latest anti-AD to REJECT at $(date +'%Y-%m-%d %H:%M:%S')" && git push)
