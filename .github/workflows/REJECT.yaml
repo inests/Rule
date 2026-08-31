@@ -14,7 +14,7 @@ jobs:
 
       - name: Pull latest anti-AD and overwrite REJECT
         run: |
-          curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt -o REJECT
+          curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt | grep -v '^#' > REJECT
 
       - name: Commit and Push if changed
         run: |
