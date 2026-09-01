@@ -1,4 +1,4 @@
-name: Pull and Convert gfwlist to PROXY
+name: Update PROXY
 
 on:
   schedule:
