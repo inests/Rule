@@ -1,4 +1,4 @@
-name: Pull anti-AD to REJECT
+name: Update REJECT
 
 on:
   schedule:
