@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,chromium.org
 DOMAIN-KEYWORD,.google.
 IP-ASN,15169,no-resolve
 IP-ASN,16591,no-resolve
