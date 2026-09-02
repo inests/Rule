@@ -17,15 +17,19 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Download and convert gfwlist
+      - name: Update PROXY
         run: |
           python3 -c "
           import urllib.request
           import base64
 
           url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
-          response = urllib.request.urlopen(url)
-          content = response.read().decode('utf-8')
+          try:
+              with urllib.request.urlopen(url) as response:
+                  content = response.read().decode('utf-8')
+          except Exception as e:
+              print(f'Failed to fetch GFWList: {e}')
+              exit(1)
 
           decoded_bytes = base64.b64decode(content)
           lines = decoded_bytes.decode('utf-8', errors='ignore').splitlines()
@@ -60,4 +64,9 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           git add PROXY
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Pull and convert gfwlist to PROXY at $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+          else
+            git commit -m "Update PROXY"
+            git push
+          fi
