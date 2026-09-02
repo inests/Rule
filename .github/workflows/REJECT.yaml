@@ -6,13 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  pull:
+  update-reject:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Pull latest anti-AD and overwrite REJECT
+      - name: Update REJECT
         run: |
           curl -sSL https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt | grep -v '^#' > REJECT
 
@@ -22,4 +22,9 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           git add REJECT
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Pull latest anti-AD to REJECT at $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+          else
+            git commit -m "Update REJECT"
+            git push
+          fi
