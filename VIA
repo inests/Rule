@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX,aliyunfile.com
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubce.com
 DOMAIN-SUFFIX,baidupcs.com
@@ -6,6 +9,9 @@ DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,haokan.com
 DOMAIN-SUFFIX,tiebaimg.com
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,wenshushu.cn
+DOMAIN-SUFFIX,wss.zone
 DOMAIN-SUFFIX,sunlogin.com
 DOMAIN-SUFFIX,sunlogin.net
 DOMAIN-SUFFIX,sluser.com
@@ -13,5 +19,3 @@ DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,orayuser.com
 DOMAIN-KEYWORD,.todesk.
-DOMAIN-SUFFIX,wenshushu.cn
-DOMAIN-SUFFIX,wss.zone
