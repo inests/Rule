@@ -1,12 +1,7 @@
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidubce.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,baidupcs.cn
+DOMAIN-KEYWORD,.baidu.
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,haokan.com
-DOMAIN-SUFFIX,tiebaimg.com
 DOMAIN-SUFFIX,aliyunfile.com
 DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,aliyuncs.com
