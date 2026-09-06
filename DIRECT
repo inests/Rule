@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,tmall.com
@@ -18,11 +19,10 @@ DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,goofish.com
 DOMAIN-SUFFIX,freshippo.com
 DOMAIN-SUFFIX,cainiao.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,alitrip.com
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,fliggy.net
 DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
