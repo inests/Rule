@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,exp-tas.com
@@ -26,6 +27,14 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurecomcdn.net
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,s-msft.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,microsoft-gbl.com
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-KEYWORD,.microsoft.
 IP-ASN,8075,no-resolve
 IP-ASN,12076,no-resolve
