@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiaocdn.com
@@ -117,6 +119,8 @@ DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
