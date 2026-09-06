@@ -1,5 +1,7 @@
 DOMAIN-KEYWORD,.baidu.
+DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,baidubce.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,shifen.com
@@ -7,6 +9,7 @@ DOMAIN-SUFFIX,wenshushu.cn
 DOMAIN-SUFFIX,wss.zone
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,todesk.net
+DOMAIN-SUFFIX,todesk.cn
 DOMAIN-SUFFIX,sunlogin.com
 DOMAIN-SUFFIX,sunlogin.net
 DOMAIN-SUFFIX,sluser.com
