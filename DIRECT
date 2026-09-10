@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,routerlogin.net
 DOMAIN-SUFFIX,noip.com
-DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayimg.com
@@ -171,6 +170,7 @@ DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,163.org
 DOMAIN-SUFFIX,netease.im
+DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,zhihu.com
