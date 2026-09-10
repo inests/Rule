@@ -6,10 +6,11 @@ DOMAIN-SUFFIX,ddns.synology.com
 DOMAIN-SUFFIX,myds.synology.com
 DOMAIN-SUFFIX,insight.synology.com
 DOMAIN-SUFFIX,sns.synology.com
-DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,netgear.com
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,routerlogin.net
+DOMAIN-SUFFIX,noip.com
+DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayimg.com
@@ -115,7 +116,6 @@ DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,oceanengine.com
 DOMAIN-SUFFIX,fenquedata.com
-DOMAIN-SUFFIX,coreapp.cn
 DOMAIN-SUFFIX,huoshan.com
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,capcut.com
