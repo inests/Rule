@@ -9,8 +9,11 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,bnbchain.org
