@@ -1,0 +1,59 @@
+name: Update DERP
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-derp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Update DERP
+        run: |
+          python3 -c "
+          import urllib.request
+          import json
+
+          url = 'https://controlplane.tailscale.com/derpmap/default'
+          try:
+              with urllib.request.urlopen(url) as response:
+                  data = json.loads(response.read().decode('utf-8'))
+          except Exception as e:
+              print(f'Failed to fetch DERP Map: {e}')
+              exit(1)
+
+          ips = set()
+          regions = data.get('Regions', {})
+          for region in regions.values():
+              for node in region.get('Nodes', []):
+                  ipv4 = node.get('IPv4')
+                  if ipv4:
+                      ips.add(ipv4)
+
+          with open('DERP', 'w', encoding='utf-8') as f:
+              f.write('DOMAIN-SUFFIX,tailscale.com\n')
+              for ip in sorted(ips):
+                  f.write(f'IP-CIDR,{ip}/32,no-resolve\n')
+          "
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add DERP
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+          else
+            git commit -m "Update DERP"
+            git push
+          fi
