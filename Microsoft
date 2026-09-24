@@ -1,7 +1,4 @@
 DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msftauth.net
@@ -10,13 +7,11 @@ DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onestore.ms
-DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,live.com
@@ -24,6 +19,7 @@ DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azureedge.net
@@ -32,6 +28,12 @@ DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,s-msft.com
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,onestore.ms
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,microsoft-gbl.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
