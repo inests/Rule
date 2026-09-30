@@ -37,7 +37,6 @@ DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,microsoft-gbl.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-KEYWORD,.microsoft.
 IP-ASN,8075,no-resolve
 IP-ASN,12076,no-resolve
 IP-ASN,8068,no-resolve
