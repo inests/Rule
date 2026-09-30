@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,googlesource.com
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,goog
-DOMAIN-KEYWORD,.google.
 IP-ASN,15169,no-resolve
 IP-ASN,16591,no-resolve
 IP-ASN,396982,no-resolve
