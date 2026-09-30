@@ -13,10 +13,9 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,shazam.com
 DOMAIN-SUFFIX,ampaeservices.com
 DOMAIN-SUFFIX,apple-dns.net
-DOMAIN-SUFFIX,organic-apple.com
-DOMAIN-KEYWORD,.apple.
-PROCESS-NAME,trustd
 IP-CIDR,17.0.0.0/8,no-resolve
+IP-CIDR6,2403:300::/32,no-resolve
+IP-CIDR6,2620:149::/32,no-resolve
+IP-CIDR6,2a01:b740::/32,no-resolve
 IP-ASN,714,no-resolve
 IP-ASN,6185,no-resolve
-IP-ASN,20427,no-resolve
