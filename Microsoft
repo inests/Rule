@@ -2,9 +2,12 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,onmicrosoft.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,windows.com
@@ -33,8 +36,8 @@ DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,onestore.ms
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,exp-tas.com
-DOMAIN-SUFFIX,microsoft-gbl.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
 IP-ASN,8075,no-resolve
